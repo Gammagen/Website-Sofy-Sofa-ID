@@ -100,7 +100,7 @@
     </div>
 
     <div class="card">
-      <div class="img img-card"><img src="css/jual_sofa2.jpeg" alt=""></div>
+      <div class="img img-card"><img src="css/cuci_sofa.png" alt=""></div>
       <div class="content">
         <div class="card-title"><strong>Cuci Sofa</strong></div>
         <div class="description">
@@ -141,6 +141,5 @@
 
   </div>
 </div>
-
 
 @endsection

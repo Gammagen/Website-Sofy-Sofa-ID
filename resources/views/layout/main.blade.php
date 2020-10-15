@@ -68,7 +68,7 @@
                         </div>
                         <div class="col-10 contact-subject">
                             <h3>Whatsapp</h3>
-                            <p class="contact-description"> 0812-8090-7012</p>
+                            <p class="contact-description"> +62 812-8090-7012</p>
                         </div>
                     </div>
 
@@ -78,7 +78,7 @@
     </div>
 
     <div class="footer">
-        <div class="footer-copyright text-center py-1">
+        <div class="footer-copyright text-center py-1" style="margin-top: -1%">
             <p>Copyright © 2020 Sofy Sofa & Interior Design ID</p>
         </div>
     </div>
