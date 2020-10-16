@@ -36,7 +36,6 @@
                   <a class="dropdown-item" href="/listSofa">SOFA</a>
                   <a class="dropdown-item" href="/listKulitSofa">KULIT SOFA</a>
                   <a class="dropdown-item" href="/listKitchenSet">KITCHEN SET</a>
-                  <a class="dropdown-item" href="/listGorden">GORDEN</a>
                 </div>
               </li>
             </ul>
@@ -48,7 +47,7 @@
 </header>
 
 <div class="container">
-  <h1 class="text-center title-sofa">Katalog Sofa</h1>
+  <h1 class="text-center title-sofa">Katalog Gorden</h1>
   <hr>
   <div class="container product-all">
 

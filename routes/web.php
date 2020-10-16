@@ -28,3 +28,7 @@ Route::get('/listKulitSofa', function () {
 Route::get('/listKitchenSet', function () {
     return view('listKitchenSet');
 });
+
+Route::get('/listGorden', function () {
+    return view('listGorden');
+});

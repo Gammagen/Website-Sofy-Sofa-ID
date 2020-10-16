@@ -36,6 +36,7 @@
                   <a class="dropdown-item" href="/listSofa">SOFA</a>
                   <a class="dropdown-item" href="/listKulitSofa">KULIT SOFA</a>
                   <a class="dropdown-item" href="/listKitchenSet">KITCHEN SET</a>
+                  <a class="dropdown-item" href="/listGorden">GORDEN</a>
                 </div>
               </li>
             </ul>
@@ -132,7 +133,7 @@
     <div class="card">
       <div class="img img-card"><img src="css/kitchen-set.jpeg" alt=""></div>
       <div class="content">
-        <div class="card-title"><strong>Pembuatan Gorden</strong></div>
+        <div class="card-title"><strong>Jual Gorden</strong></div>
         <div class="description">
           <p>SofySofa menerima jasa pembuatan gorden untuk memperindah lingkungan ruangan anda.</p>
         </div>
