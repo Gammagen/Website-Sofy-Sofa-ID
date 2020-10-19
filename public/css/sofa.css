@@ -65,6 +65,10 @@ body {
     margin-top: -4.5%;
 }
 
+.fa-bars {
+    color: #fff;
+}
+
 /* Background Home */
 a img {
     width: 20%;
@@ -244,22 +248,22 @@ a img {
 /**/
 /*=============================*/
 
-.title-sofa{
+.title-sofa {
     padding-top: 12%;
     font-family: "Roboto", sans-serif;
 }
 
-hr{
+hr {
     width: 230px;
     border: 2px solid rgb(122, 4, 97);
 }
 
-.product-all{
+.product-all {
     padding-top: 5%;
     padding-bottom: 5%;
 }
 
-.product-grid{
+.product-grid {
     padding-bottom: 20px;
     padding-top: 20px;
 }
@@ -268,12 +272,12 @@ hr{
     box-shadow: 0 2px 4px 0 rgb(122, 4, 97), 0 4px 8px 0 rgb(122, 4, 97);
 } */
 
-.product-image{
+.product-image {
     text-align: center;
     border: none;
 }
 
-.product-title{
+.product-title {
     margin-top: 5%;
 }
 
@@ -340,7 +344,7 @@ hr{
         margin-bottom: 5%;
     }
 
-    .title-sofa{
+    .title-sofa {
         margin-top: 15%;
         font-family: "Roboto", sans-serif;
     }
@@ -358,4 +362,3 @@ hr{
 .text-small {
     font-size: 0.9rem !important;
 }
-

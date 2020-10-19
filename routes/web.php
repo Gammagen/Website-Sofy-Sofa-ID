@@ -21,10 +21,6 @@ Route::get('/listSofa', function () {
     return view('listSofa');
 });
 
-Route::get('/listKulitSofa', function () {
-    return view('listKulitSofa');
-});
-
 Route::get('/listKitchenSet', function () {
     return view('listKitchenSet');
 });

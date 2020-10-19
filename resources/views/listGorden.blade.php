@@ -34,8 +34,8 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="/listSofa">SOFA</a>
-                  <a class="dropdown-item" href="/listKulitSofa">KULIT SOFA</a>
                   <a class="dropdown-item" href="/listKitchenSet">KITCHEN SET</a>
+                  <a class="dropdown-item" href="/listGorden">GORDEN</a>
                 </div>
               </li>
             </ul>
@@ -57,65 +57,30 @@
 
       <div class="col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
+          <img src="css/gorden_1.jpeg">
         </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
+        <h4 class="text-center product-title"> SS-GR-001</h4>
       </div>
 
       <div class="col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
+          <img src="css/gorden_2.jpeg">
         </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
+        <h4 class="text-center product-title"> SS-GR-002</h4>
       </div>
 
       <div class="col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
+          <img src="css/gorden_3.jpeg">
         </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
+        <h4 class="text-center product-title"> SS-GR-003</h4>
       </div>
 
       <div class="col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
+          <img src="css/gorden_4.jpeg">
         </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
-      </div>
-
-      <div class="col-md-4 product-grid">
-        <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
-        </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
-      </div>
-
-      <div class="col-md-4 product-grid">
-        <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
-        </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
-      </div>
-
-      <div class="col-md-4 product-grid">
-        <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
-        </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
-      </div>
-
-      <div class="col-md-4 product-grid">
-        <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
-        </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
-      </div>
-
-      <div class="col-md-4 product-grid">
-        <div class="image product-image">
-          <img src="css/jual_sofa.jpeg">
-        </div>
-        <h4 class="text-center product-title"> SS-JS-001</h4>
+        <h4 class="text-center product-title"> SS-GR-004</h4>
       </div>
 
     </div>

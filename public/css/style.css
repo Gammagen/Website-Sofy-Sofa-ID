@@ -65,6 +65,10 @@ body {
     margin-top: -4.5%;
 }
 
+.fa-bars {
+    color: #fff;
+}
+
 /* Background Home */
 a img {
     width: 20%;

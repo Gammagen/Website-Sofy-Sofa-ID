@@ -34,7 +34,6 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="/listSofa">SOFA</a>
-                  <a class="dropdown-item" href="/listKulitSofa">KULIT SOFA</a>
                   <a class="dropdown-item" href="/listKitchenSet">KITCHEN SET</a>
                   <a class="dropdown-item" href="/listGorden">GORDEN</a>
                 </div>
