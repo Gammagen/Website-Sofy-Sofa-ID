@@ -67,7 +67,7 @@
 <div class="container" id="home-about">
   <div class="row about-section">
     <div class="col" id="logo-about">
-      <img src="css/logo-about.jpeg" alt="">
+      <img src="css/logo-about.jpeg" alt="" style="border-radius: 10px;">
     </div>
     <div class="col subtitle-about">
       <h2>Tentang Kami</h2>
@@ -130,7 +130,7 @@
     </div>
 
     <div class="card">
-      <div class="img img-card"><img src="css/kitchen-set.jpeg" alt=""></div>
+      <div class="img img-card"><img src="css/buat_gorden.jpg" alt=""></div>
       <div class="content">
         <div class="card-title"><strong>Jual Gorden</strong></div>
         <div class="description">

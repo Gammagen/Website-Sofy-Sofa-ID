@@ -55,30 +55,30 @@
 
       <!-- TULIS PRODUK DISINI !! -->
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/gorden_1.jpeg">
+          <img src="css/gorden_1.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-GR-001</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/gorden_2.jpeg">
+          <img src="css/gorden_2.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-GR-002</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/gorden_3.jpeg">
+          <img src="css/gorden_3.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-GR-003</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/gorden_4.jpeg">
+          <img src="css/gorden_4.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-GR-004</h4>
       </div>
