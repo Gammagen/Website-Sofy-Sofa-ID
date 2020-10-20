@@ -55,65 +55,65 @@
 
       <!-- TULIS PRODUK DISINI !! -->
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_1.jpeg">
+          <img src="css/ks_1.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-001</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_2.jpeg">
+          <img src="css/ks_2.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-002</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_3.jpeg">
+          <img src="css/ks_3.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-003</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_4.jpeg">
+          <img src="css/ks_4.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-004</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_5.jpeg">
+          <img src="css/ks_5.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-005</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_6.jpeg">
+          <img src="css/ks_6.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-006</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_7.jpeg">
+          <img src="css/ks_7.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-007</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_8.jpeg">
+          <img src="css/ks_8.jpeg" class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-008</h4>
       </div>
 
-      <div class="col-md-4 product-grid">
+      <div class="col-6 col-md-4 product-grid">
         <div class="image product-image">
-          <img src="css/ks_9.jpeg">
+          <img src="css/ks_9.jpeg"class="w-100">
         </div>
         <h4 class="text-center product-title"> SS-KS-009</h4>
       </div>

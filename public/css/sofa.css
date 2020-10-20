@@ -111,6 +111,7 @@ a img {
 #logo-about img {
     width: 100%;
     margin-top: 17.5%;
+    border-radius: 10px;
 }
 
 .subtitle-services h2 {
@@ -275,6 +276,7 @@ hr {
 .product-image {
     text-align: center;
     border: none;
+    width: 100%;
 }
 
 .product-title {
